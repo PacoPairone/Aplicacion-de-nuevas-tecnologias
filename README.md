@@ -1,4 +1,6 @@
-# Aplicacion-de-nuevas-tecnologias
-# CV.md
-# Pullrequest.md
+# Aplicacion-de-nuevas-
+# Pairone Franco
 
+## LINKS
+
+[Curriculum](./CV.md#section)
