@@ -4,4 +4,4 @@
 ## LINKS
 
 [Curriculum](./CV.md#section)
-[PullRequest](pullrequest.md)
+[PullRequest](Pullrequest.md)
